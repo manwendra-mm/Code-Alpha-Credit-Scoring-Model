@@ -1,6 +1,7 @@
 # Code-Alpha_Credit-Scoring-Model
 This project aims to predict loan approval based on various features such as applicant's age, income, employment length, loan amount, etc. The prediction model is built using machine learning techniques, specifically an XGBOOST classifier model. This dataset has been extracted from Kaggle.
 
+
 ## Problem Statement: Credit Scoring Model
 Develop a credit scoring model to predict the
 creditworthiness of individuals based on historical
